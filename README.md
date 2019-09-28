@@ -16,7 +16,7 @@ test = true 相似度测试
 
 4.run_similarity 相似度的训练或测试（根据第3步的设置决定）
 
-5.qa_my.sh
+5.qa_my.sh（连接了本地的neo4j知识库）
 
 问答
 
