@@ -1,7 +1,8 @@
 # KBQA-BERT
 基于知识图谱的QA系统，BERT模型
 需要下载BERT预训练模型（中文）chinese_L-12_H-768_A-12  https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip   解压缩后放在./ModelParams文件夹里面（注意整个chinese_L-12_H-768_A-12文件夹放进去）
-需要在根目录建立Output文件夹存放模型参数文件
+
+另外需要在根目录建立Output文件夹存放训练的模型参数文件
 分为Output/NER（命名实体识别）文件夹和Output/SIM（相似度）文件夹
 
 1.run_ner.sh训练（命名实体识别）
