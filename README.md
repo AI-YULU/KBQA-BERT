@@ -4,7 +4,7 @@
 需要在根目录建立Output文件夹存放模型参数文件
 分为Output/NER（命名实体识别）文件夹和Output/SIM（相似度）文件夹
 
-1.run_ner.sh训练
+1.run_ner.sh训练（命名实体识别）
 
 2.terminal_ner.sh（命名实体识别测试）
 
