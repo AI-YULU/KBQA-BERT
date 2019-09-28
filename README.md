@@ -10,7 +10,7 @@
 
 3.args.py
 
-train =true 预训练模式
+train = true 预训练模式
 
 test = true 相似度测试
 
